@@ -1,6 +1,6 @@
 <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＶＡＪＩＲＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=ANDEX+MD-V1)](https://git.io/typing-svg)
 
   
 <div align="center">
@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/VajiraTech">
-    <img src="https://telegra.ph/file/235d945df230d71f246b6.jpg"  width="700px">
+    <img src="https://telegra.ph/file/c8be6c96d4c1ac33b4681.jpg"  width="900px">
 </a>
 <hr>
 
@@ -33,7 +33,7 @@
 
 ## JOIN SUPPORT GROUP
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
+[![vajira](https://telegra.ph/file/c8be6c96d4c1ac33b4681.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
 
 ## MY YT CHANNEL
 
